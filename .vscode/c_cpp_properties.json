@@ -1,11 +1,17 @@
 {
     "configurations": [
         {
-            "name": "Mac",
+            "name": "Win32",
             "includePath": [
                 "/usr/include",
                 "/usr/local/include",
-                "${workspaceRoot}"
+                "${workspaceRoot}",
+                "C:/Users/think/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/include/c++",
+                "C:/Users/think/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/include/c++/x86_64-w64-mingw32",
+                "C:/Users/think/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/include/c++/backward",
+                "C:/Users/think/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/include",
+                "C:/Users/think/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/include/c++/tr1",
+                "C:/mingw-w64/x86_64-w64-mingw32/include"
             ],
             "defines": [],
             "intelliSenseMode": "clang-x64",
@@ -13,7 +19,13 @@
                 "path": [
                     "/usr/include",
                     "/usr/local/include",
-                    "${workspaceRoot}"
+                    "${workspaceRoot}",
+                    "C:/Users/think/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/include/c++",
+                    "C:/Users/think/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/include/c++/x86_64-w64-mingw32",
+                    "C:/Users/think/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/include/c++/backward",
+                    "C:/Users/think/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/include",
+                    "C:/Users/think/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/include/c++/tr1",
+                    "C:/mingw-w64/x86_64-w64-mingw32/include"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
